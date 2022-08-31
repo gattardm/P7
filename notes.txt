@@ -1,0 +1,4 @@
+OK Ajouter les diagrammes Arch cible + base dans le tableau de sourcing
+OK Enjeu écart entre la baseline et la cible
+OK Pouvoirs des parties prenantes
+
