@@ -1,4 +1,17 @@
-OK Ajouter les diagrammes Arch cible + base dans le tableau de sourcing
-OK Enjeu écart entre la baseline et la cible
-OK Pouvoirs des parties prenantes
+EDF : étude de faisabilité
+PDI : plan d'implémentation
+FDR : feuille de route
 
+29/08
+OK -Ajouter les diagrammes Arch cible + base dans le tableau de sourcing
+OK -Enjeu écart entre la baseline et la cible
+OK -Pouvoirs des parties prenantes
+
+05/09
+OK Intégrer des éléments de renvoi au sein des différents documents
+
+A remonter:
+-je suis en vacances du 17/09 au 24/09 inclu
+-j'ai déplacé les § des parties prenantes du EDF vers le PDI
+-J'ai identifié précisément et spécifiquement les rôles et responsabilités de chacun au sein du PDI
+-J'ai déplacé le § des KPI du PDI vers la FDR
